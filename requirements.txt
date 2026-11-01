@@ -1,3 +1,0 @@
-pyTelegramBotAPI>=4.32,<5
-yt-dlp[default]>=2026.8.19
-python-dotenv>=1,<2
