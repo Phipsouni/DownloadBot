@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "endpoint_url": "https://YOUR_ACCOUNT_ID.r2.cloudflarestorage.com",
+  "bucket": "dl06-downloads",
+  "access_key_id": "YOUR_R2_ACCESS_KEY_ID",
+  "secret_access_key": "YOUR_R2_SECRET_ACCESS_KEY",
+  "ttl_seconds": 21600,
+  "max_file_bytes": 2000000000,
+  "max_storage_bytes": 8000000000,
+  "max_objects": 200
+}

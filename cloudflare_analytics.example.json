@@ -1,0 +1,4 @@
+{
+  "account_id": "YOUR_CLOUDFLARE_ACCOUNT_ID",
+  "api_token": "YOUR_ACCOUNT_ANALYTICS_READ_TOKEN"
+}

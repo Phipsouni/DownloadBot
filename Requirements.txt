@@ -1,0 +1,11 @@
+pyTelegramBotAPI>=4.32,<5
+yt-dlp[default]>=2026.10.21,<2027
+curl_cffi>=0.16,<0.18
+yt-dlp-yandex-music==2026.9.24
+spotipyfree==1.9.14
+# spotapi imports redis unconditionally, although it omits the dependency.
+redis>=5,<9
+ytmusicapi>=1.12.1,<2,!=1.12.2,!=1.12.3
+boto3>=1.40,<2
+idna>=3.15,<4
+urllib3>=2.8,<3
